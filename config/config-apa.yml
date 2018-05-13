@@ -1,0 +1,11 @@
+---
+led_count: 125
+brightness: 255
+strip_type: APA102
+mapping:
+  5:
+  - input:
+      start_address: 1
+      total_rgb_channels: 126
+    output:
+      start_address: 0

@@ -1,0 +1,30 @@
+---
+gpionum: 21
+led_count: 680
+brightness: 255
+strip_type: WS2811_STRIP_GRB
+mapping:
+  1:
+  - input:
+      start_address: 1
+      total_rgb_channels: 170
+    output:
+      start_address: 0
+  2:
+  - input:
+      start_address: 1
+      total_rgb_channels: 170
+    output:
+      start_address: 169
+  3:
+  - input:
+      start_address: 1
+      total_rgb_channels: 170
+    output:
+      start_address: 336
+  4:
+  - input:
+      start_address: 1
+      total_rgb_channels: 170
+    output:
+      start_address: 509
