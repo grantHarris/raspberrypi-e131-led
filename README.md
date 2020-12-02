@@ -88,6 +88,7 @@ make
 * https://github.com/jbeder/yaml-cpp.git
 * Boost 1.66 https://www.boost.org/
 * http://www.airspayce.com/mikem/bcm2835/
+* https://github.com/hhromic/libe131
 
 ## If you find rthis helpful
 If you do something cool with this software please share it
